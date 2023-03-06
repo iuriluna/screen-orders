@@ -39,7 +39,7 @@ export const H1 = styled.h1 `
     line-height: 33px;
     text-align: center;
 
-    margin-bottom: 76px;
+    margin-bottom: 20px;
 
     color: #FFFFFF;
 `
